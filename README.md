@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/68923434?v=4" style="border-radius: 50%; width: 150px;">
+</p>
 <h1 align="center">Hi, I am Olivier 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-I am 17 years old self-taught software developer based in Kartuzy, Poland. Passionate about iOS development and I am currently learning UIKit.<br> I am also interested in web development with React and Mobile development with Flutter.
+I am a 17-year-old self-taught software developer based in Kartuzy, Poland. Passionate about iOS development and currently learning UIKit. I am also interested in web development with React and mobile development with Flutter.
 
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
