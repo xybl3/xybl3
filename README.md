@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I am Olivier 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-I am a 17-year-old self-taught software developer based in Kartuzy, Poland. Passionate about iOS development and currently learning UIKit. I am also interested in web development with React and mobile development with Flutter.
+I am a 18-year-old self-taught software developer based in Kartuzy, Poland. Passionate about iOS development and currently learning UIKit. I am also interested in web development with React and mobile development with Flutter.
 
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
